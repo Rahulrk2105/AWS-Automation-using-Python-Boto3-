@@ -1,0 +1,6 @@
+2026-04-22 12:50:31,917 - Found credentials in shared credentials file: ~/.aws/credentials
+2026-04-22 12:50:45,528 - Checked instance i-0ac0d8f6e6b8c6d56
+2026-04-22 12:51:34,080 - Started instance i-0ac0d8f6e6b8c6d56
+2026-04-22 12:51:44,797 - Stopped instance i-0ac0d8f6e6b8c6d56
+2026-04-22 12:56:53,904 - Found credentials in shared credentials file: ~/.aws/credentials
+2026-04-22 12:57:20,072 - Uploaded test.txt to s3-rkpy-bucket
